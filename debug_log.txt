@@ -1,0 +1,224 @@
+=== Program started at 2026-01-23 08:30:08 ===
+2026-01-23 08:30:08 - Application path: c:\Users\ekins\Desktop\my tech
+2026-01-23 08:30:08 - Running as EXE: False
+2026-01-23 08:30:08 - Opening URL
+2026-01-23 08:30:08 - Starting threads...
+2026-01-23 08:30:08 - Popup thread started
+2026-01-23 08:30:08 - Popup thread started (interval: 5-15s)
+2026-01-23 08:30:08 - open_random_popup called
+2026-01-23 08:30:08 - Wallpaper thread started
+2026-01-23 08:30:08 - Wallpaper thread started (interval: 7 hours)
+2026-01-23 08:30:08 - Main loop starting
+n: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:30:08 - Looking for wallpapers in: c:\Users\ekins\Desktop\my tech\wallpaper
+2026-01-23 08:30:08 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:30:08 - Found 22 wallpapers
+2026-01-23 08:30:08 - Selected random image: FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:30:08 - Setting wallpaper: c:\Users\ekins\Desktop\my tech\wallpaper\IMG_0630.png
+2026-01-23 08:30:08 - open_popup_image called with: FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:30:08 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:30:08 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:30:11 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:30:12 - Popup window created successfully
+2026-01-23 08:30:13 - Wallpaper set result: 1
+2026-01-23 08:30:15 - Next popup in 8 seconds
+2026-01-23 08:30:23 - open_random_popup called
+2026-01-23 08:30:23 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:30:23 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:30:23 - Selected random image: 67751e1424f618241230c769.jpg
+2026-01-23 08:30:23 - open_popup_image called with: 67751e1424f618241230c769.jpg
+2026-01-23 08:30:23 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:30:23 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:30:24 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:30:25 - Popup window created successfully
+2026-01-23 08:30:28 - Next popup in 12 seconds
+2026-01-23 08:30:40 - open_random_popup called
+2026-01-23 08:30:40 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:30:40 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:30:40 - Selected random image: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:30:40 - open_popup_image called with: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:30:40 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:30:40 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:30:40 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:30:40 - Popup window created successfully
+2026-01-23 08:30:43 - Next popup in 13 seconds
+2026-01-23 08:30:56 - open_random_popup called
+2026-01-23 08:30:56 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:30:56 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:30:56 - Selected random image: imagen.png
+2026-01-23 08:30:56 - open_popup_image called with: imagen.png
+2026-01-23 08:30:56 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:30:56 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:30:57 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:30:57 - Popup window created successfully
+2026-01-23 08:31:00 - Next popup in 13 seconds
+2026-01-23 08:31:13 - open_random_popup called
+2026-01-23 08:31:13 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:31:13 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:31:13 - Selected random image: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:31:13 - open_popup_image called with: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:31:13 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:31:13 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:31:13 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:31:13 - Popup window created successfully
+2026-01-23 08:31:16 - Next popup in 13 seconds
+2026-01-23 08:31:29 - open_random_popup called
+2026-01-23 08:31:29 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:31:29 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:31:29 - Selected random image: FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:31:29 - open_popup_image called with: FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:31:29 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:31:29 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:31:30 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\FM4FA49KFKB9VT0ATT1FYA3SW0.png
+2026-01-23 08:31:30 - Popup window created successfully
+2026-01-23 08:31:33 - Next popup in 12 seconds
+2026-01-23 08:31:45 - open_random_popup called
+2026-01-23 08:31:45 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:31:45 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:31:45 - Selected random image: image.png
+2026-01-23 08:31:45 - open_popup_image called with: image.png
+2026-01-23 08:31:45 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\image.png
+2026-01-23 08:31:45 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\image.png
+2026-01-23 08:31:45 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\image.png
+2026-01-23 08:31:45 - Popup window created successfully
+2026-01-23 08:31:48 - Next popup in 12 seconds
+2026-01-23 08:32:00 - open_random_popup called
+2026-01-23 08:32:00 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:32:00 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:32:00 - Selected random image: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:32:00 - open_popup_image called with: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:32:00 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:32:00 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:32:00 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:32:00 - Popup window created successfully
+2026-01-23 08:32:03 - Next popup in 15 seconds
+2026-01-23 08:32:18 - open_random_popup called
+2026-01-23 08:32:18 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:32:18 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:32:18 - Selected random image: IMG_5820.jpg
+2026-01-23 08:32:18 - open_popup_image called with: IMG_5820.jpg
+2026-01-23 08:32:18 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\IMG_5820.jpg
+2026-01-23 08:32:18 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\IMG_5820.jpg
+2026-01-23 08:32:18 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\IMG_5820.jpg
+2026-01-23 08:32:18 - Popup window created successfully
+2026-01-23 08:32:22 - Next popup in 7 seconds
+2026-01-23 08:32:29 - open_random_popup called
+2026-01-23 08:32:29 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:32:29 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:32:29 - Selected random image: image0-4.jpg
+2026-01-23 08:32:29 - open_popup_image called with: image0-4.jpg
+2026-01-23 08:32:29 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:32:29 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:32:29 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:32:29 - Popup window created successfully
+2026-01-23 08:32:32 - Next popup in 15 seconds
+2026-01-23 08:32:47 - open_random_popup called
+2026-01-23 08:32:47 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:32:47 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:32:47 - Selected random image: furry.png
+2026-01-23 08:32:47 - open_popup_image called with: furry.png
+2026-01-23 08:32:47 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:32:47 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:32:47 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:32:47 - Popup window created successfully
+2026-01-23 08:32:50 - Next popup in 7 seconds
+2026-01-23 08:32:57 - open_random_popup called
+2026-01-23 08:32:57 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:32:57 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:32:57 - Selected random image: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:32:57 - open_popup_image called with: 7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:32:57 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:32:57 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:32:57 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png
+2026-01-23 08:32:57 - Popup window created successfully
+2026-01-23 08:33:00 - Next popup in 13 seconds
+2026-01-23 08:33:13 - open_random_popup called
+2026-01-23 08:33:13 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:33:13 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:33:13 - Selected random image: image0-4.jpg
+2026-01-23 08:33:13 - open_popup_image called with: image0-4.jpg
+2026-01-23 08:33:13 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:13 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:14 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:14 - Popup window created successfully
+2026-01-23 08:33:17 - Next popup in 6 seconds
+2026-01-23 08:33:23 - open_random_popup called
+2026-01-23 08:33:23 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:33:23 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:33:23 - Selected random image: furry.png
+2026-01-23 08:33:23 - open_popup_image called with: furry.png
+2026-01-23 08:33:23 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:33:23 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:33:23 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:33:23 - Popup window created successfully
+2026-01-23 08:33:26 - Next popup in 12 seconds
+2026-01-23 08:33:38 - open_random_popup called
+2026-01-23 08:33:38 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:33:38 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:33:38 - Selected random image: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:33:38 - open_popup_image called with: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:33:38 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:33:38 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:33:38 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:33:38 - Popup window created successfully
+2026-01-23 08:33:41 - Next popup in 12 seconds
+2026-01-23 08:33:53 - open_random_popup called
+2026-01-23 08:33:53 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:33:53 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:33:53 - Selected random image: image0-4.jpg
+2026-01-23 08:33:53 - open_popup_image called with: image0-4.jpg
+2026-01-23 08:33:53 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:53 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:53 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\image0-4.jpg
+2026-01-23 08:33:53 - Popup window created successfully
+2026-01-23 08:33:56 - Next popup in 9 seconds
+2026-01-23 08:34:05 - open_random_popup called
+2026-01-23 08:34:05 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:34:05 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:34:05 - Selected random image: 67751e1424f618241230c769.jpg
+2026-01-23 08:34:05 - open_popup_image called with: 67751e1424f618241230c769.jpg
+2026-01-23 08:34:05 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:34:05 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:34:05 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\67751e1424f618241230c769.jpg
+2026-01-23 08:34:05 - Popup window created successfully
+2026-01-23 08:34:08 - Next popup in 12 seconds
+2026-01-23 08:34:20 - open_random_popup called
+2026-01-23 08:34:20 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:34:20 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:34:20 - Selected random image: f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png
+2026-01-23 08:34:20 - open_popup_image called with: f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png
+2026-01-23 08:34:20 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png
+2026-01-23 08:34:20 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png
+2026-01-23 08:34:21 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png
+2026-01-23 08:34:21 - Popup window created successfully
+2026-01-23 08:34:24 - Next popup in 13 seconds
+2026-01-23 08:34:37 - open_random_popup called
+2026-01-23 08:34:37 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:34:37 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:34:37 - Selected random image: imagen.png
+2026-01-23 08:34:37 - open_popup_image called with: imagen.png
+2026-01-23 08:34:37 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:34:37 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:34:37 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\imagen.png
+2026-01-23 08:34:37 - Popup window created successfully
+2026-01-23 08:34:40 - Next popup in 11 seconds
+2026-01-23 08:34:51 - open_random_popup called
+2026-01-23 08:34:51 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:34:51 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:34:51 - Selected random image: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:34:51 - open_popup_image called with: a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:34:51 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:34:51 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:34:51 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\a9775a21eec1ed0734db9bf78eb6724c.jpg
+2026-01-23 08:34:51 - Popup window created successfully
+2026-01-23 08:34:54 - Next popup in 5 seconds
+2026-01-23 08:34:59 - open_random_popup called
+2026-01-23 08:34:59 - Looking for images in: c:\Users\ekins\Desktop\my tech\images
+2026-01-23 08:34:59 - Found 10 images: ['67751e1424f618241230c769.jpg', '7763C169-9AB5-4E31-8BC0-B5E6D7CD7631.png', 'a9775a21eec1ed0734db9bf78eb6724c.jpg', 'f-gotta-let-the-girls-hang-out-while-studying-sometimes-v0-50h5b77r2kzf1.png', 'FM4FA49KFKB9VT0ATT1FYA3SW0.png', 'furry.png', 'image.png', 'image0-4.jpg', 'imagen.png', 'IMG_5820.jpg']
+2026-01-23 08:34:59 - Selected random image: furry.png
+2026-01-23 08:34:59 - open_popup_image called with: furry.png
+2026-01-23 08:34:59 - Image exists, creating popup: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:34:59 - Attempting to create popup with: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:34:59 - Image loaded successfully: c:\Users\ekins\Desktop\my tech\images\furry.png
+2026-01-23 08:34:59 - Popup window created successfully
+2026-01-23 08:35:02 - Next popup in 13 seconds
